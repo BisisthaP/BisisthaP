@@ -1,7 +1,5 @@
 <!-- 🌌 BISISHTA PATRA - GITHUB PROFILE README -->
 
-![Banner](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=60)
-
 <h1 align="center">Hi, I'm <strong>Bisistha Patra</strong> 👋</h1>
 <h3 align="center">🚀 AI Engineer | Generative AI | Applied Computing and AI @ University of Hertfordshire</h3>
 
