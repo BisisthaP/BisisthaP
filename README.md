@@ -10,10 +10,10 @@
 ---
 
 ### 💡 What I Do  
-- **Generative AI & LLMs:** Integration, fine-tuning, and deployment using Gemini, Hugging Face, LangChain  
-- **Data Science & Analytics:** NumPy, Pandas, Power BI, Scikit-learn, Matplotlib  
-- **AI System Development:** Python, Streamlit, FastAPI, OpenCV, Flask  
-- **DevOps & Cloud:** Git, Docker, Google Cloud and AWS (Learning)
+1. **Generative AI & LLMs:** Integration, fine-tuning, and deployment using Gemini, Hugging Face, LangChain  
+2. **Data Science & Analytics:** NumPy, Pandas, Power BI, Scikit-learn, Matplotlib  
+3. **AI System Development:** Python, Streamlit, FastAPI, OpenCV, Flask  
+4. **DevOps & Cloud:** Git, Docker, Google Cloud and AWS (Learning)
 
 --- 
 
