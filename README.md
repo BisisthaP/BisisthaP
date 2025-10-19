@@ -33,16 +33,16 @@
 ### 💼 Experience
 
 **AI Engineering Intern – Coforge (2025)**  
-- Engineered an **end-to-end LLM fine-tuning pipeline** for Gemini and Llama.  
-- Automated ingestion and Q&A transformation for domain-specific datasets.  
+a. Engineered an **end-to-end LLM fine-tuning pipeline** for Gemini and Llama.  
+b. Automated ingestion and Q&A transformation for domain-specific datasets.  
 
 **AI Intern – GenAI Agency (2024)**  
-- Built **multimedia AI marketing tools** using Hugging Face APIs.  
-- Deployed interactive client apps via **Streamlit** for accessibility.
+a. Built **multimedia AI marketing tools** using Hugging Face APIs.  
+b. Deployed interactive client apps via **Streamlit** for accessibility.
 
 **NASA HERC 2025 – Team Mushak (🏅 5th International Rank)**  
-- Designed **Python-driven rover controls** with LiDAR-based navigation.  
-- Handled material vendor selection for extreme terrain performance.
+a. Designed **Python-driven rover controls** with LiDAR-based navigation.  
+b. Handled material vendor selection for extreme terrain performance.
 
 ---
 
@@ -60,18 +60,18 @@
 
 ### 🏆 Achievements  
 
-- **NASA Human Exploration Rover Challenge 2025** – *5th Place Internationally*  
-- **Kaggle – Backpack Prediction Competition** – *83rd / 3383 participants*  
-- **Goldman Sachs Software Engineering Program** (Forage)  
-- **British Airways Data Science Program** (Forage)  
+1. **NASA Human Exploration Rover Challenge 2025** – *5th Place Internationally*  
+2. **Kaggle – Backpack Prediction Competition** – *83rd / 3383 participants*  
+3. **Goldman Sachs Software Engineering Program** (Forage)  
+4. **British Airways Data Science Program** (Forage)  
 
 ---
 
 ### 🎓 Education  
 **University of Hertfordshire (2023–2026)**  
 Bachelor of Technology in **Applied Computing & Artificial Intelligence**  
-- CGPA: **4.00 / 4.00**  
-- Relevant Coursework: Machine Learning, Data Engineering, MLOps, DSA  
+a. CGPA: **4.00 / 4.00**  
+b. Relevant Coursework: Machine Learning, Data Engineering, MLOps, DSA  
 
 ---
 
