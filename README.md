@@ -9,7 +9,7 @@
 
 ---
 
-### 💡 What I Do  
+### What I Do  
 1. **Generative AI & LLMs:** Integration, fine-tuning, and deployment using Gemini, Hugging Face, LangChain  
 2. **Data Science & Analytics:** NumPy, Pandas, Power BI, Scikit-learn, Matplotlib  
 3. **AI System Development:** Python, Streamlit, FastAPI, OpenCV, Flask  
@@ -30,7 +30,7 @@
 
 ---
 
-### 💼 Experience
+### Experience
 
 **AI Engineering Intern – Coforge (2025)**  
 a. Engineered an **end-to-end LLM fine-tuning pipeline** for Gemini and Llama.  
@@ -46,7 +46,7 @@ b. Handled material vendor selection for extreme terrain performance.
 
 ---
 
-### 🧩 Featured Projects  
+### Featured Projects  
 
 | Project | Description | Tech Stack |
 |------------|----------------|---------------|
@@ -58,7 +58,7 @@ b. Handled material vendor selection for extreme terrain performance.
 
 ---
 
-### 🏆 Achievements  
+### Achievements  
 
 1. **NASA Human Exploration Rover Challenge 2025** – *5th Place Internationally*  
 2. **Kaggle – Backpack Prediction Competition** – *83rd / 3383 participants*  
@@ -67,7 +67,7 @@ b. Handled material vendor selection for extreme terrain performance.
 
 ---
 
-### 🎓 Education  
+### Education  
 **University of Hertfordshire (2023–2026)**  
 Bachelor of Technology in **Applied Computing & Artificial Intelligence**  
 a. CGPA: **4.00 / 4.00**  
