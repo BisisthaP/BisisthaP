@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm <strong>Bisistha Patra</strong> 👋</h1>
 <h3 align="center">🚀 Aspiring AI/ML Researcher | Generative AI • Multimodal LLMs • Adversarial Robustness | BSc (Hons) Applied Computing & AI, University of Hertfordshire</h3>
 ---
-### ✨ Research-Oriented Quote
-> “Advancing AI through rigorous experimentation, multimodal understanding, and robust, efficient architectures.”
+### **Research-Oriented Quote** ✨
+“Advancing AI through rigorous experimentation, multimodal understanding, and robust, efficient architectures.”
 
 ---
 ### Technical Focus
