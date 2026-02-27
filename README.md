@@ -32,7 +32,6 @@
 |---------|-------------|------------|------|
 | **RAG vs Fine-Tuning Comparative Study** | Benchmarked RAG vs PEFT on cryptocurrency whitepapers; RAG achieved 92% retrieval precision in resource-constrained settings (preprint: TechRxiv) | LangChain, Hugging Face, Llama | [Repo](https://github.com/BisisthaP/RAGvsFineTuning) |
 | **Adversarial Robustness Decay in Sparse Neural Architectures** | Investigated pruning (0–80% L1) vs FGSM robustness on ResNet-18/CIFAR-10; identified "robustness cliff" (~35% ASR increase at 75% sparsity) via Integrated Gradients | PyTorch, Foolbox | Portfolio |
-| **Finance Agent – Chai & Stocks** | RAG-powered financial analysis agent integrating real-time market data for quantitative insights | LangChain, PostgreSQL, Gemini, yfinance | [Repo] |
 | **IELTS Speech Analysis Wrapper** | Real-time speech evaluation & feedback system with low-latency Gemini integration | FastAPI, HTMX, Gemini | [Repo](https://github.com/BisisthaP/IELTS-Speaking-Wrapper) |
 | **Maths with Gestures** | Gesture-driven math problem solver enhancing educational accessibility | OpenCV, CVZone, Gemini | Repo |
 | **Cyberbullying Detection** | LSTM-based NLP classifier for harmful content moderation | Scikit-learn, LSTM | [Repo](https://github.com/BisisthaP/Cyberbullying_Analyser) |
